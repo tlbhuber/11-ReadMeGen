@@ -89,18 +89,20 @@ function LicenseGet (license) {
     switch (license) 
      {
     case "Apache License 2.0":
-        license = "[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)";
+        return "[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)";
         break;
     case "IBM":
-        license = "[![License: IPL 1.0](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)";
+        return "[![License: IPL 1.0](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)";
         break;
     case "MIT License":
-        license = "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)";
+        return "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)";
         break;
     case "Mozilla Public License 2.0":
-        license = "[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)";
+        return "[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)";
         break;
     case "No License":
+        return ":no_entry_sign:"
+
         break;
 }
 }
@@ -128,9 +130,12 @@ ${licLogo} | This application is licensed under: ${license}
 
 ## Testing Instructions\n ${test}
 
-## Questions\n https://github.com/${github}\n
+## Questions\n 
+    [Please feel free to reach out to me if you have any quesitons:]\n
+    [Email:]  ${email}\n 
+    [Visit my GitHub profile:] https://github.com/${github}\n
 
-${email} `;
+`;
 
 
 

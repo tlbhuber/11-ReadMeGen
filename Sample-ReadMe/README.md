@@ -1,9 +1,9 @@
-# Test
+# Readme Generator
 
-undefined | This application is licensed under: No License
+undefined | This application is licensed under: MIT License
 
 ## Project Description
- Test
+ This is an application to assist users create a sleek and Professional ReadMe file by simply answering a few questions.
 
 ## Table of Contents
 * [Installation Procedure](#install)
@@ -13,19 +13,23 @@ undefined | This application is licensed under: No License
 * [Questions](#Questions)
 
 ## Installation Procedure
- Test
+ Clone the Github repo and run 'npm install'
 
 ## Usage Information
- Test
+ Run 'node index.js' in Node
 
 ## Contribution Guidelines
- Test
+ This application is not currently accepting contributions
 
 ## Testing Instructions
- Test
+ Run the application and check for any errors
 
 ## Questions
- https://github.com/tlbhuber
+ 
+    [Please feel free to reach out to me if you have any quesitons:]
+
+    [Email:]  test@test.com
+ 
+    [Visit my GitHub profile:] https://github.com/tlbhuber
 
 
-Test@test.com 
