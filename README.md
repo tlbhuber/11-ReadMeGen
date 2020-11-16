@@ -29,7 +29,20 @@ Using this Node.js code, in conjuction with *[Inquirer](https://www.npmjs.com/pa
 ## Testing Instructions
  In order to test this application all you have to do is run it and check for any errors.
 
-## Questions
+## Media
+
+### Screenshots
  
 
+ Sample answers to the prompts:
 
+ ![Prompts](https://github.com/tlbhuber/11-ReadMeGen/blob/main/Assets/img/Prompts.w.answers.sample.PNG?raw=true)
+
+Raw view of the created ReadMe file (seen below in VS Code):
+
+![Raw File](https://github.com/tlbhuber/11-ReadMeGen/blob/main/Assets/img/Raw.ReadME.Sample.PNG?raw=true)
+
+
+Sample Copy of finalized ReadMe file:
+
+![Preview Copy] (https://github.com/tlbhuber/11-ReadMeGen/blob/main/Assets/img/Preview.ReadME.Sample.PNG?raw=true)
