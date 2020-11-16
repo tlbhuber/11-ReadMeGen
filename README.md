@@ -45,4 +45,4 @@ Raw view of the created ReadMe file (seen below in VS Code):
 
 Sample Copy of finalized ReadMe file:
 
-![Preview Copy] (https://github.com/tlbhuber/11-ReadMeGen/blob/main/Assets/img/Preview.ReadME.Sample.PNG?raw=true)
+![Preview of Final Copy](https://github.com/tlbhuber/11-ReadMeGen/blob/main/Assets/img/Preview.ReadME.Sample.PNG?raw=true)
