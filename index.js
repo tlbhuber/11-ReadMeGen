@@ -134,7 +134,7 @@ ${email} `;
 
 
 
-fs.writeFile("./generated-file/README.md", myREADME, 
+fs.writeFile("./Sample-ReadMe/README.md", myREADME, 
 (err) =>
 err ? console.log(err) : console.log("ReadMe.md created successfully!")
 );
