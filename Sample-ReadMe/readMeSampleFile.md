@@ -1,11 +1,11 @@
-# Sample Name
+# WorkoutWzrd
 
-[![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/) 
+[![License: None](https://img.shields.io/badge/License-NONE-red.svg)] 
 
-This application is licensed under: The Do What the F**k You Want to Public License
+This application is licensed under: None
 
 ## Project Description
- ReadMe Generator
+ Using NoSQL methods to create a Workout Tracker.
 
 ## Table of Contents
 * [Installation Procedure](#install)
@@ -15,22 +15,22 @@ This application is licensed under: The Do What the F**k You Want to Public Lice
 * [Questions](#Questions)
 
 ## Installation Procedure
- Install
+ *Clone this repo to to your local machine *
 
 ## Usage Information
- Use it
+ Anyone can use this app.
 
 ## Contribution Guidelines
- None 
+ No contributions are requested at this time.
 
 ## Testing Instructions
- Run it and test it
+ No testing required, just install and run.
 
 ## Questions
  
 Please feel free to reach out to me if you have any quesitons:
 
-Email:  tim@example.com
+Email:  none
  
 Visit my GitHub profile: https://github.com/tlbhuber
 
