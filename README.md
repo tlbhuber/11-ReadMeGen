@@ -36,13 +36,13 @@ Using this Node.js code, in conjuction with *[Inquirer](https://www.npmjs.com/pa
 
  Sample answers to the prompts:
 
- ![Prompts](https://github.com/tlbhuber/11-ReadMeGen/blob/main/Assets/img/Prompts.w.answers.sample.PNG?raw=true)
+ ![Prompts](https://github.com/tlbhuber/11-ReadMeGen/blob/main/img/Prompts.w.answers.sample.PNG?raw=true)
 
 Raw view of the created ReadMe file (seen below in VS Code):
 
-![Raw File](https://github.com/tlbhuber/11-ReadMeGen/blob/main/Assets/img/Raw.ReadME.Sample.PNG?raw=true)
+![Raw File](https://github.com/tlbhuber/11-ReadMeGen/blob/main/img/Raw.ReadME.Sample.PNG?raw=true)
 
 
 Sample Copy of finalized ReadMe file:
 
-![Preview of Final Copy](https://github.com/tlbhuber/11-ReadMeGen/blob/main/Assets/img/Preview.ReadME.Sample.PNG?raw=true)
+![Preview of Final Copy](https://github.com/tlbhuber/11-ReadMeGen/blob/main/img/Preview.ReadME.Sample.PNG?raw=true)
