@@ -1,11 +1,11 @@
-# WorkoutWzrd
+# Budget TRacker
 
-[![License: None](https://img.shields.io/badge/License-NONE-red.svg)] 
+[![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/) 
 
-This application is licensed under: None
+This application is licensed under: The Do What the F**k You Want to Public License
 
 ## Project Description
- Using NoSQL methods to create a Workout Tracker.
+ A Budget tracker that can be used online has the functionality to  allow for online/offline access.
 
 ## Table of Contents
 * [Installation Procedure](#install)
@@ -15,16 +15,16 @@ This application is licensed under: None
 * [Questions](#Questions)
 
 ## Installation Procedure
- *Clone this repo to to your local machine *
+ Clone the Repo to your local machine and run in `$ node server.js`
 
 ## Usage Information
- Anyone can use this app.
+ Anyone may use this application.
 
 ## Contribution Guidelines
- No contributions are requested at this time.
+ No contributions are being looked for at this time.
 
 ## Testing Instructions
- No testing required, just install and run.
+ No testing is required.
 
 ## Questions
  
